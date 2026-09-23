@@ -8,8 +8,8 @@ git push
 git pull
 git status 
 
-git int "es para inicializar un repositorio local" 
-git branch -M main "sirve para renombrar la rama master main"
+git int "es para inicializar un repositorio local" (Repositorios nuevos)
+git branch -M main "sirve para renombrar la rama master main" (Repositorios nuevos)
 git add . "Este comando sirve para agregar todos los archivos"
 git commit -m "firt commit" (Este comando sirve para nombrar la versión de subida)
 gt push "Sube los cambios en la web o nube" 
@@ -19,8 +19,8 @@ git status "Comprueba si hay cambios en los archivos".
 
 Configuración del usuario local git
 
-git config --local user.name "su nombre"
-git config -local user.email "su correo electrnico registrad en GitHub 
+git config --local user.name "su nombre" (Repositorios nuevos)
+git config -local user.email "su correo electrnico registrad en GitHub  (Repositorios nuevos)
 
 (Recuerden abrir el "administrador de credenciales" seleccionar credenciales de Windows y elimar cualquier credencial relacionada con git o GitHub).
 
@@ -29,3 +29,5 @@ vamos a nuestra carpeta que creamos, damos clic donde no haya nada,  mas opcione
 
 Pegar ---> Shift + insert 
 Pegar ---> Ctrl + V (No funciona) 
+
+git clone ---> descargar una copia local exacta de un repositorio remoto
